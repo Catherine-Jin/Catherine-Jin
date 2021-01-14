@@ -3318,7 +3318,7 @@ actheader{
 		cursor: default;
 		text-align: center;
 		z-index: 1;
-		min-height: 100vh;
+		/* min-height: 100vh; */
 	}
 
 		#intro input, #intro select, #intro textarea {
@@ -3580,7 +3580,7 @@ actheader{
 			letter-spacing: 0.075em;
 			line-height: 1;
 			padding: 1rem 1.75rem;
-			text-transform: uppercase;
+			/* text-transform: uppercase; */
 			visibility: visible;
 		}
 
